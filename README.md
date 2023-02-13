@@ -14,3 +14,4 @@ linkedIn:https://www.linkedin.com/in/rodrigotoobe/
 gmail:rod.toobe@gmail.com
 - 😄 Pronouns: God
 - ⚡ Fun fact: I'm poor.
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=50)](https://github.com/harish-sethuraman/readme-components)
