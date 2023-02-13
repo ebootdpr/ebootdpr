@@ -14,12 +14,13 @@ linkedIn:
 gmail:rod.toobe@gmail.com
 - 😄 Pronouns: God
 - ⚡ Fun fact: I'm poor.
-
+## Languages Self Evaluation
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/harish-sethuraman/readme-components)
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](https://github.com/harish-sethuraman/readme-components)
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Go&value=15)](https://github.com/harish-sethuraman/readme-components)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python&value=10)](https://github.com/harish-sethuraman/readme-components)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust&value=5)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust&value=12)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python and Lua&value=10)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C and c++&value=10)](https://github.com/harish-sethuraman/readme-components)
 
 ##Contact Me
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=LinkedIn)]([https://github.com/harish-sethuraman/readme-components](https://www.linkedin.com/in/rodrigotoobe/)
