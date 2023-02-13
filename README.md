@@ -19,12 +19,9 @@ gmail:rod.toobe@gmail.com
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)](https://github.com/harish-sethuraman/readme-components)
 
-## ⚡ GitHub Stats
+## GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ebootdpr&show_icons=true&count_private=true&theme=gruvbox" />
-a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebootdpr&layout=compact&count_private=true&theme=gruvbox" />
-b
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ebootdpr&theme=gruvbox" />  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebootdpr.ebootdpr)
