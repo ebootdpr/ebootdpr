@@ -10,14 +10,21 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Rust Yew.
 - 💬 Ask me about Job Interviews
 - 📫 How to reach me: 
-linkedIn:https://www.linkedin.com/in/rodrigotoobe/ 
+linkedIn:
 gmail:rod.toobe@gmail.com
 - 😄 Pronouns: God
 - ⚡ Fun fact: I'm poor.
 
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=50)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Go&value=15)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python&value=15)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust&value=5)](https://github.com/harish-sethuraman/readme-components)
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)](https://github.com/harish-sethuraman/readme-components)
+##Contact Me
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=LinkedIn)]([https://github.com/harish-sethuraman/readme-components](https://www.linkedin.com/in/rodrigotoobe/)
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=WhatsApp)]([https://github.com/harish-sethuraman/readme-components](https://wa.me/543435202921))
 
 ## GitHub Stats
 
