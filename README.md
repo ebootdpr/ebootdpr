@@ -26,13 +26,5 @@ a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebootdpr&layout=compact&count_private=true&theme=gruvbox" />
 b
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ebootdpr&theme=gruvbox" />  
-c
-<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebootdpr&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
-d
-<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebootdpr&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-  
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
-e
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebootdpr.ebootdpr)
