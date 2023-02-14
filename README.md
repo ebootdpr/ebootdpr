@@ -24,9 +24,9 @@ gmail:rod.toobe@gmail.com
 ##Contact Me
 ####Gmail
 rod.toobe@gmail.com
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=LinkedIn)]([https://github.com/harish-sethuraman/readme-components](https://www.linkedin.com/in/rodrigotoobe)
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=LinkedIn)](https://www.linkedin.com/in/rodrigotoobe)
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=WhatsApp)]([https://github.com/harish-sethuraman/readme-components](https://wa.me/543435202921)
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=WhatsApp)](https://wa.me/543435202921)
 
 ## GitHub Stats
 
