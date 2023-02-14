@@ -5,40 +5,24 @@ Im interested ...
 ## Familiarized with
 
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
+
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-</a>
- <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express&svgfill=659b60">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=expressjs&svgfill=659b60">
+
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43">  
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactnative&svgfill=cd6799">
-</a>
 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED">
 
-<a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
-</a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-</p>
+
 
 ## Languages Self Evaluation
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/ebootdpr#)
