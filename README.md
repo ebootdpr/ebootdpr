@@ -19,13 +19,12 @@ Currently I'm interested in:
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791"/>   
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=red"/>    
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=blue"/>    
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jsonwebtoken&svgfill=white"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jsonwebtokens&svgfill=white"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PostgreSQL&svgfill=336791"/>   
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Firebase&svgfill=red"/>    
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Auth0&svgfill=blue"/>    
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Json%20Web%20Tokens&svgfill=white"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=AWS%20EC2&svgfill=yellow"/> 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=google%20cloud&svgfill=white"/> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Google%20Cloud&svgfill=white"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Vercel&svgfill=2496ED"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Heroku&svgfill=purple"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED"/>
@@ -60,11 +59,11 @@ Currently I'm interested in:
 
 
 ## Languages Self Evaluation
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/ebootdpr#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](https://github.com/ebootdpr#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20Go&value=15)](https://github.com/ebootdpr#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](https://github.com/ebootdpr#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](https://github.com/ebootdpr#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90&color=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20Go&value=15)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](#)
 
 
 ## Contact Me
