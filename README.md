@@ -29,7 +29,7 @@ Currently I'm interested in:
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=AWS%20EC2&svgfill=yellow"/> 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Google%20Cloud&svgfill=white"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Vercel&svgfill=2496ED"/>
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Heroku&svgfill=purple"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Heroku&svgfill=pink"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED"/>
 </p>
 
