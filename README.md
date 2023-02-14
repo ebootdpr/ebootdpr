@@ -27,8 +27,7 @@ My currently short timed objective is that I want to become the equivalent of a 
 - Im a unix user, I hate all distros but it is what it is. Currently going with Ubuntu + KDE. I also have windows just in case I cant run some software.
 
 
-- My prefered IDE is  
-<img href="https://neovim.io/" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NEOVIM" alt=neovim style="margin-bottom: 1px;" height="35px" /> (with LSP and a lot of useful plugins) for personal use, and VSCode for Teamwork/Pair Programming. Knowing <img display="inline" height="35px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VIM"/> commands were really useful when I needed to edit text files in AWS EC2 where you only got a remote terminal and no GUI.
+- My prefered IDE is <a href="https://neovim.io/" target="blank"><img href="https://neovim.io/" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NEOVIM" alt=neovim style="margin-bottom: 1px;" height="35px" /></a> (with LSP and a lot of useful plugins) for personal use, and VSCode for Teamwork/Pair Programming. Knowing <img display="inline" height="35px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VIM"/> commands were really useful when I needed to edit text files in AWS EC2 where you only got a remote terminal and no GUI.
 
 
 - I like martial arts, I did a couple of years of Judo and Karate (Shorin Ryu) and 6 months of Kung Fu (Wushu)
@@ -97,8 +96,7 @@ My currently short timed objective is that I want to become the equivalent of a 
 
 ## Contact Me
 <p align="left">
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=rod.toobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" height="30" width="40" />
-</a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=rod.toobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodrigotoobe?locale=en_US" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>  
