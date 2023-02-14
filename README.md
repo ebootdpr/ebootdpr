@@ -19,6 +19,7 @@ Im interested ... everything.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ### Languages
+<p align="left">
 <!--- javasctipt -->
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <!--- Typescript -->
