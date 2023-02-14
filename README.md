@@ -5,9 +5,11 @@ I'm 26 years old and have an insatiable desire to learn everything, especially p
  I've recently begun learning the Rust programming language because I know how annoying C++ is when it comes to pointers, and Rust ownership resembles what I mistakenly thought variable lifetime was when I learned C in high school. 
 
 ## Background and Objectives
-I studied 2 years of Electromecanics Engineering, 3 years of Professor in Physics and 2 year of Electronics Engineering. I used to repair PC SmartPhones and Tablets Then, the last year decided to do a course on that. I always liked programming but never decided to go full through that path until I decided to study for a Full Stack Developer title at Henry bootcamp for 5 months. Luckly I already knew the fundamentals of programming because I learned the fundamentals of programming in C when I was 15 years old at high school, and I learned a little bit more in university at Electronics engineering, where I learned OOP in C++. And did some simple video game projects using godot, unity and unreal engine. So the bootcamp was really easy for me.
+I studied Electromecanics Engineering for two years, Professor Physics for three years, and Electronics Engineering for two years, abandoned them all for different reasons. I used to fix PCs. Then, last year, I decided to take a course on repairing phones, and tablets but the market didnt go well afterwards so I decided to take a 540 degrees and go study for Full Stack Developer at Henry bootcamp for 5 months. Fortunately, I had already learned the fundamentals of programming in C when I was 15 years old in high school, and I learned a little bit more in university at Electronics engineering, where I learned OOP in C++. In addition, I worked on some simple video game projects with Godot, Unity, and Unreal Engine. So the bootcamp was really easy for me.
 
-Now I'm looking for a job that will challenge me to improve my programming and problem-solving abilities, my currently short objective is for now that I want to become the equivalent of a Software Engineer without actually doing the career by doing the free open courses available in Yale and MIT webpages.
+Now I'm looking for a job that will challenge me to improve my programming and problem-solving abilities, 
+
+My currently short timed objective is that I want to become the equivalent of a Software Engineer without actually doing the career by doing the free open courses available in Yale and MIT webpages.
 
 
 
