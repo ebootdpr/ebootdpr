@@ -6,14 +6,15 @@ Im interested ... everything.
 <p align="left">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=45d5fe"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=028dd1"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791"/>   
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=red"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=AWS&svgfill=white"/> 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon%20web%20services&svgfill=yellow"/> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=AWS%20EC2&svgfill=yellow"/> 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=google%20cloud&svgfill=white"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Vercel&svgfill=2496ED"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Heroku&svgfill=2496ED"/>
@@ -37,14 +38,16 @@ Im interested ... everything.
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python">
 <!--- c -->
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=00599C">
-
+</p>
 
 ### Organization/Versioning
 <p align="left">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=slack">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello">
-
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GitHub"/>
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Slack"/>
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Trello"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Scrum&svgfill=df5c43"/>  
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Agile&svgfill=df5c43"/>  
+</p>
 
 
 ## Languages Self Evaluation
