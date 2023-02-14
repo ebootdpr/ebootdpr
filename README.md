@@ -27,8 +27,8 @@ My currently short timed objective is that I want to become the equivalent of a 
 - Im a unix user, I hate all distros but it is what it is. Currently going with Ubuntu + KDE. I also have windows just in case I cant run some software.
 
 
-- I prefer 
-<img href="https://neovim.io/" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NEOVIM" alt=neovim style="margin-bottom: 1px;" height="25px" /> for personal use, and VSCode for Teamwork/Pair Programming.I found than knowing <img display="inline" height="25px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VIM"/> commands were really useful when I needed to edit text files in AWS EC2 where you only got a terminal and no GUI.
+- My prefered IDE is  
+<img href="https://neovim.io/" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NEOVIM" alt=neovim style="margin-bottom: 1px;" height="35px" /> (with LSP and a lot of useful plugins) for personal use, and VSCode for Teamwork/Pair Programming. Knowing <img display="inline" height="35px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VIM"/> commands were really useful when I needed to edit text files in AWS EC2 where you only got a remote terminal and no GUI.
 
 
 - I like martial arts, I did a couple of years of Judo and Karate (Shorin Ryu) and 6 months of Kung Fu (Wushu)
