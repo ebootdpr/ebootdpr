@@ -21,8 +21,10 @@ gmail:rod.toobe@gmail.com
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](https://github.com/ebootdpr#)
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](https://github.com/ebootdpr#)
 
-##Contact Me
-####Gmail
+
+## Contact Me
+
+#### Gmail
 rod.toobe@gmail.com
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=LinkedIn)](https://www.linkedin.com/in/rodrigotoobe)
 
