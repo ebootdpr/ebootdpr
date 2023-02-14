@@ -19,21 +19,33 @@ Im interested ... everything.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ### Languages
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=black"/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC"/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629"/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=f6df1c"/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=E34A86">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=black">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=00599C">
+<!--- javasctipt -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<!--- Typescript -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC">
+<!--- Rust -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
+<!--- go -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go">
+<!--- java -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=E34A86">
+<!--- Python -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python">
+<!--- c -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=00599C">
 
 
 ### Organization/Versioning
 
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=scrum">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=agile">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=slack">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello">
+
+
 
 
 
@@ -55,8 +67,6 @@ Im interested ... everything.
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
 
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 
 
 ## Languages Self Evaluation
