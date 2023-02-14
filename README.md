@@ -21,11 +21,11 @@ Im interested ... everything.
 ### Languages
 <p align="left">
 <!--- javasctipt -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <!--- Typescript -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC">
 <!--- Rust -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
 <!--- go -->
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go">
 <!--- java -->
