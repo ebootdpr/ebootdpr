@@ -23,8 +23,8 @@ I also have background experience that could be relevant to IT like: Repairing P
 ### Fun facts:
 Im a unix user, I hate all distros but it is what it is. Currently going with Ubuntu + KDE. I also have windows just in case I cant run some software.
 
-I prefer NeoVim for personal use, and VSCode for Teamwork/Pair Programming.I found than knowing Vim commands were really useful when I needed to edit text files in AWS EC2 where you only got a terminal and no GUI.<img display="inline" height="20px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=neovim"/>
-<img display="inline" height="30px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim"/>
+I prefer <img display="inline" height="20px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=neovim"/> for personal use, and VSCode for Teamwork/Pair Programming.I found than knowing <img display="inline" height="20px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim"/> commands were really useful when I needed to edit text files in AWS EC2 where you only got a terminal and no GUI.
+
 
 I like martial arts, I did a couple of years of Judo and Karate (Shorin Ryu) and 6 months of Kung Fu (Wushu)
 
