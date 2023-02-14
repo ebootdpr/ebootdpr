@@ -19,21 +19,14 @@ Im interested ... everything.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ### Languages
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC">
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f6df1c">
-![Rust](https://img.shields.io/badge/-Rust-007ACC?style=flat-square&logo=rust)
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=golang&svgfill=f6df1c">
-![Golang](https://img.shields.io/badge/-GoLang-007ACC?style=flat-square&logo=golang)
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f6df1c">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=black"/>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC"/>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629"/>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=f6df1c"/>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=E34A86">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=black">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=00599C">
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=f6df1c">
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C++&svgfill=f6df1c">
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 ### Organization/Versioning
 
@@ -49,22 +42,21 @@ Im interested ... everything.
 
 <p align="left">  
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
 
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=expressjs&svgfill=659b60">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43">  
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43">  
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 
 
 ## Languages Self Evaluation
