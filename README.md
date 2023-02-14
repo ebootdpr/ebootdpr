@@ -3,9 +3,9 @@ Currently I'm interested in:
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=WebAssembly"/> 
  
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=opsec"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=operationalsecurity"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=softwaresecurity"/> 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/> 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust"/> 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=yew"/> 
  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unrealengine"/> 
