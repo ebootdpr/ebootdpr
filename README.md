@@ -5,6 +5,9 @@ Im interested ... everything.
 ###  Technologies
 <p align="left">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=expressjs"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js"/>  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=45d5fe"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
