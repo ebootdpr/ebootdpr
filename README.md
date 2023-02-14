@@ -4,16 +4,43 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Rust-Yew FrontEnd Personal Project
-- 🌱 I’m currently learning Rust and Go programming languages
-- 👯 I’m looking to collaborate on Anything that can get me some money.
-- 🤔 I’m looking for help with ...Rust Yew.
-- 💬 Ask me about Job Interviews
-- 📫 How to reach me: 
-linkedIn:
-gmail:rod.toobe@gmail.com
-- 😄 Pronouns: God
-- ⚡ Fun fact: I'm poor.
+## Things I use on a daily basis
+
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+
+
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> -->
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
+
 ## Languages Self Evaluation
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/ebootdpr#)
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](https://github.com/ebootdpr#)
