@@ -87,11 +87,11 @@ My currently short timed objective is that I want to become the equivalent of a 
 ### Soft Skills
 
 ### Languages Self Evaluation
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=30)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20and%20Go&value=15)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80)](#languages-self-evaluation)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=30)](#languages-self-evaluation)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20and%20Go&value=15)](#languages-self-evaluation)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](#languages-self-evaluation)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](#languages-self-evaluation)
 
 
 ## Contact Me
