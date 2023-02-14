@@ -2,8 +2,8 @@
 Im interested ... everything.
 (everything is ordered by Most skilled to Less skilled)
 ## Skills (ordered by Most skilled to less skilled)
-![React](https://readme-components.vercel.app/api?component=react&logo=🥰&desc=react&fill=ffc0cd)
-![NodeJs](https://readme-components.vercel.app/api?component=NodeJs&logo=🥰&desc=react&fill=ffc0cd)
+![React](https://readme-components.vercel.app/api?component=logo&logo=react)
+![NodeJs](https://readme-components.vercel.app/api?component=logo&logo=NodeJs)
 ### Technologies
 <p align="left">
 
