@@ -4,10 +4,10 @@ Im interested ... everything.
 ## Skills (ordered by Most skilled to less skilled)
 ![React](https://readme-components.vercel.app/api?component=logo&logo=react)
 ![NodeJs](https://readme-components.vercel.app/api?component=logo&logo=NodeJs)
-### <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"> Technologies
+### ![Technologies](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe)
 <p align="left">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NodeJs">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL">  
