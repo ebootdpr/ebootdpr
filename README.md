@@ -11,14 +11,19 @@ asdsd
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NodeJs"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nodejs"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Nodejs"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NodejS"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.jS"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
 </p>
+<p align="left">  
 
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43"/>  
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED"/>
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -55,22 +60,6 @@ asdsd
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=slack">
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello">
 
-## Skills
-
-<p align="left">  
-
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-
-
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43">  
-
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED">
-
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
-
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 
 
 ## Languages Self Evaluation
