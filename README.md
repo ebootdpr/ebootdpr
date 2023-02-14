@@ -5,6 +5,8 @@ Im interested ... everything.
 ![React](https://readme-components.vercel.app/api?component=logo&logo=react)
 ![NodeJs](https://readme-components.vercel.app/api?component=logo&logo=NodeJs)
 asdsd
+### <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&desc=%20&svgfill=15d8fe"> Technologies
+
 ### ![Technologies](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&desc=%20&svgfill=15d8fe) Technologies
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
