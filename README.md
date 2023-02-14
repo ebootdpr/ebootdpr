@@ -98,13 +98,13 @@ My currently short timed objective is that I want to become the equivalent of a 
 <p align="left">
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=rod.toobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodrigotoobe?locale=en_US" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin height="30" style="margin-bottom: 5px;" />
 </a>  
 <a href="https://wa.me/543435202921" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp" alt=whatsapp style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp" alt=whatsapp height="30" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/ebootdpr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github height="30" style="margin-bottom: 5px;" />
 </a>
  </p>
 
