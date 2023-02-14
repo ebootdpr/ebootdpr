@@ -15,11 +15,11 @@ gmail:rod.toobe@gmail.com
 - 😄 Pronouns: God
 - ⚡ Fun fact: I'm poor.
 ## Languages Self Evaluation
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/ebootdpr/ebootdpr/blob/main/README.md#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](/#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20Go&value=15)]
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)]
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)]
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/ebootdpr#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](https://github.com/ebootdpr#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20Go&value=15)](https://github.com/ebootdpr#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](https://github.com/ebootdpr#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](https://github.com/ebootdpr#)
 
 ##Contact Me
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=LinkedIn)]([https://github.com/harish-sethuraman/readme-components](https://www.linkedin.com/in/rodrigotoobe/)
