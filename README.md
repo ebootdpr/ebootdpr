@@ -2,28 +2,19 @@
 Im interested ... everything.
 (everything is ordered by Most skilled to Less skilled)
 ## Skills (ordered by Most skilled to less skilled)
-![React](https://readme-components.vercel.app/api?component=logo&logo=react)
-![NodeJs](https://readme-components.vercel.app/api?component=logo&logo=NodeJs)
-asdsd
-### <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&desc=%20&svgfill=15d8fe"> Technologies
-
-### ![Technologies](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&desc=%20&svgfill=15d8fe) Technologies
+###  Technologies
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodB"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Mongodb"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
 </p>
 <p align="left">  
 
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43"/>  
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED"/>
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43"/>  
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
