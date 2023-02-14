@@ -4,10 +4,11 @@ Im interested ... everything.
 ## Skills (ordered by Most skilled to less skilled)
 ### Technologies
 <p align="left">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nodejs&animation=spin&svgfill=15d8fe">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=15d8fe">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL&animation=spin&svgfill=15d8fe">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nodejs&animation=spin&svgfill=15d8fe"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=15d8fe"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL&animation=spin&svgfill=15d8fe"/>  
+</p>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
