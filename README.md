@@ -26,7 +26,7 @@ I also have background experience that could be relevant to IT like: Repairing P
 
 ### Fun facts:
 Im a unix user, I hate all distros but it is what it is. Currently going with Ubuntu + KDE. I also have windows just in case I cant run some software.
-I prefer NeoVim for personal use, and VSCode for Teamwork/Pair Programming.
+I prefer NeoVim for personal use, and VSCode for Teamwork/Pair Programming.I found than knowing Vim commands were really useful when I needed to edit text files in AWS EC2 where you only got a terminal and no GUI.
 
 ## Skills 
 (ordered by Most skilled to less skilled)
