@@ -1,18 +1,11 @@
 ### Hi there, I am Rodrigo Toobe
-Im interested ... everything.
-(everything is ordered by Most skilled to Less skilled)
-
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wasm"/> 
-
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webassembly"/> 
-
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godot"/> 
+Currently I'm interested in: 
+<p align="left">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=WebAssembly"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity3d"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ue4"/>  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unrealengine"/> 
- 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino"/> 
+ </p>
 
 ## Skills (ordered by Most skilled to less skilled)
 ###  Technologies
