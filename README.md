@@ -1,13 +1,24 @@
 ### Hi there, I am Rodrigo Toobe
 Im interested ... everything.
 (everything is ordered by Most skilled to Less skilled)
+
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wasm"/> 
+
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webassembly"/> 
+
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=godot"/> 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity"/> 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity3d"/> 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ue4"/>  
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unrealengine"/> 
+ 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino"/> 
+
 ## Skills (ordered by Most skilled to less skilled)
 ###  Technologies
 <p align="left">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=expressjs"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js"/>  
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express%20Sequelize%20and%20Mongoose"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=45d5fe"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
@@ -25,7 +36,6 @@ Im interested ... everything.
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Heroku&svgfill=purple"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED"/>
 </p>
- 
 
 ### Languages
 <p align="left">
