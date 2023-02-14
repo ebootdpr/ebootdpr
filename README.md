@@ -62,16 +62,17 @@ Currently I'm interested in:
 
 
 ## Languages Self Evaluation
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90&color=white)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20Go&value=15)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90&fill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40&fill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20and%20Go&value=15&fill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10&fill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10&fill=white)](#)
 
 
 ## Contact Me
-
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=rod.toobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" height="30" width="40" /></a>
+<p align="left">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=rod.toobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/rodrigotoobe?locale=en_US" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -81,6 +82,7 @@ Currently I'm interested in:
 <a href="https://github.com/ebootdpr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+ </p>
 
 ## GitHub Stats
 
