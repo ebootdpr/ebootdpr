@@ -10,10 +10,12 @@ Im interested ... everything.
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=google-cloud&svgfill=white"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791"/>   
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=red"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&svgfill=yellow"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud&svgfill=white"/> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon%20aws&svgfill=yellow"/> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=google%20cloud&svgfill=white"/> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=yellow"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Vercel&svgfill=2496ED"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Heroku&svgfill=2496ED"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED"/>
