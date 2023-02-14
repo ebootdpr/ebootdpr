@@ -2,14 +2,11 @@
 Currently I'm interested in: 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=WebAssembly"/> 
- 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=yew"/> 
- 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unrealengine"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino"/> 
  </p>
 
 ## Skills (ordered by Most skilled to less skilled)
@@ -18,6 +15,10 @@ Currently I'm interested in:
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express%20Sequelize%20and%20Mongoose"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactnative&animation=spin&svgfill=15d8fe"/>
+ 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=expogo&animation=spin&svgfill=15d8fe"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=expo&animation=spin&svgfill=15d8fe"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=45d5fe"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=028dd1"/>
