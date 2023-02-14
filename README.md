@@ -34,7 +34,8 @@ My currently short timed objective is that I want to become the equivalent of a 
 
 - I like martial arts, I did a couple of years of Judo and Karate (Shorin Ryu) and 6 months of Kung Fu (Wushu)
 
-## Skills Most skilled to least skilled, roughly ordered
+## Skills
+ Most skilled to least skilled, roughly ordered
 ###  Technologies
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
