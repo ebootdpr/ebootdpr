@@ -4,6 +4,8 @@ Im interested ... everything.
 ## Skills (ordered by Most skilled to less skilled)
 ### Technologies
 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -17,13 +19,20 @@ Im interested ... everything.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ### Languages
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC">
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f6df1c">
 ![Rust](https://img.shields.io/badge/-Rust-007ACC?style=flat-square&logo=rust)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=golang&svgfill=f6df1c">
 ![Golang](https://img.shields.io/badge/-GoLang-007ACC?style=flat-square&logo=golang)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f6df1c">
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=f6df1c">
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C++&svgfill=f6df1c">
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 ### Organization/Versioning
