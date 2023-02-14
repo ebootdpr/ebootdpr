@@ -61,14 +61,15 @@ Im interested ... everything.
 ## Contact Me
 
 #### Gmail rod.toobe@gmail.com
-<a href="https://github.com/https://github.com/ebootdpr" target="_blank">
+<a href="https://github.com/ebootdpr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/rodrigotoobe?locale=en_US" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=WhatsApp)](https://wa.me/543435202921)
+<a href="https://wa.me/543435202921" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=greeb alt=whatsapp style="margin-bottom: 5px;" />
+</a>
 
 ## GitHub Stats
 
