@@ -62,11 +62,11 @@ Currently I'm interested in:
 
 
 ## Languages Self Evaluation
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90&fill=white)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40&fill=white)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20and%20Go&value=15&fill=white)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10&fill=white)](#)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10&fill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90&textfill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40&textfill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20and%20Go&value=15&textfill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10&textfill=white)](#)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10&textfill=white)](#)
 
 
 ## Contact Me
