@@ -4,28 +4,21 @@ Im interested ... everything.
 ## Skills (ordered by Most skilled to less skilled)
 ###  Technologies
 <p align="left">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
-</p>
-<p align="left">  
-
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"/>
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43"/>  
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED"/>
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"/>
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-430098?style=flat-square&logo=vercel)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=google-cloud&svgfill=white"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=red"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazon-aws&svgfill=yellow"/>  
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Vercel&svgfill=2496ED"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Heroku&svgfill=2496ED"/>
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker&svgfill=2496ED"/>
+</p>
+ 
 
 ### Languages
 <p align="left">
