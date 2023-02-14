@@ -1,7 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebootdpr.ebootdpr)
 # Hi there, I am Rodrigo Toobe
 ## Who am I?
-I'm 26 years old and have an insatiable desire to learn everything, especially physics, which is why I enjoy video game development because it pushes my physics knowledge to the limit. I'm also obsessed with archiving the best software performance and reliability. 
+I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn everything, especially physics, which is why I enjoy video game development because it pushes my physics knowledge to the limit. I'm also obsessed with archiving the best software performance and reliability. 
  I've recently begun learning the Rust programming language because I know how annoying C++ is when it comes to pointers, and Rust ownership resembles what I mistakenly thought variable lifetime was when I learned C in high school. 
 
 ## Background and Objectives
