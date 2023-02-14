@@ -2,12 +2,15 @@
 Im interested ... everything.
 (everything is ordered by Most skilled to Less skilled)
 ## Skills (ordered by Most skilled to less skilled)
+![React](https://readme-components.vercel.app/api?component=react&logo=🥰&desc=react&fill=ffc0cd)
+![NodeJs](https://readme-components.vercel.app/api?component=NodeJs&logo=🥰&desc=react&fill=ffc0cd)
 ### Technologies
 <p align="left">
+
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin"/>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NodeJs&animation=bounce"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NodeJs">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL">  
 </p>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
