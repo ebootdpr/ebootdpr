@@ -8,6 +8,11 @@ I studied for a Full Stack Developer title at Henry bootcamp for 5 months. But I
 Now I'm looking for a job that will challenge me to improve my programming and problem-solving abilities.
 I also have background experience that could be relevant to IT like: Repairing PC, SmartPhones and Tablets (Hardware and Software).
 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=neovim"/>
+
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim"/>
+
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vscode"/> 
 
 ### Currently I'm interested in: 
 <p align="left">
