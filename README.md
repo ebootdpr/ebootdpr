@@ -1,5 +1,10 @@
-### Hi there, I am Rodrigo Toobe
-Currently I'm interested in: 
+# Hi there, I am Rodrigo Toobe
+## 
+
+I studied for a Full Stack Developer title at Henry bootcamp for 5 months. But I already knew the fundamentals of programming because I learned the fundamentals of programming in C when I was 15 years old, and I learned a little bit more in university at Electronics engineering, where I learned OOP.
+Now I'm looking for a job that will challenge me to improve my programming and problem-solving abilities.
+
+## Currently I'm interested in: 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=WebAssembly"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/> 
