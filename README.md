@@ -1,10 +1,15 @@
 # Hi there, I am Rodrigo Toobe
-## 
+## Who am I?
+I'm 26 years old and have an insatiable desire to learn everything, especially physics, which is why I enjoy video game development because it pushes my physics knowledge to the limit. I'm also obsessed with archiving the best software performance and reliability. 
+ I've recently begun learning the Rust programming language because I know how annoying C++ is when it comes to pointers, and Rust ownership resembles what I mistakenly thought variable lifetime was when I learned C in high school.
 
+## Background and Objectives
 I studied for a Full Stack Developer title at Henry bootcamp for 5 months. But I already knew the fundamentals of programming because I learned the fundamentals of programming in C when I was 15 years old, and I learned a little bit more in university at Electronics engineering, where I learned OOP.
 Now I'm looking for a job that will challenge me to improve my programming and problem-solving abilities.
+I also have background experience that could be relevant to IT like: Repairing PC, SmartPhones and Tablets (Hardware and Software).
 
-## Currently I'm interested in: 
+
+### Currently I'm interested in: 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=WebAssembly"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/> 
@@ -14,7 +19,12 @@ Now I'm looking for a job that will challenge me to improve my programming and p
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unrealengine"/> 
  </p>
 
-## Skills (ordered by Most skilled to less skilled)
+### Fun facts:
+Im a unix user, I hate all distros but it is what it is. Currently going with Ubuntu + KDE. I also have windows just in case I cant run some software.
+I prefer NeoVim for personal use, and VSCode for Teamwork/Pair Programming.
+
+## Skills 
+(ordered by Most skilled to less skilled)
 ###  Technologies
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
@@ -65,8 +75,9 @@ Now I'm looking for a job that will challenge me to improve my programming and p
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Agile&svgfill=df5c43"/>  
 </p>
 
+### Soft Skills
 
-## Languages Self Evaluation
+### Languages Self Evaluation
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80)](#)
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=30)](#)
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20and%20Go&value=15)](#)
