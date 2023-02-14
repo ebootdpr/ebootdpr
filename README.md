@@ -1,11 +1,13 @@
 ### Hi there, I am Rodrigo Toobe
 Im interested ... everything.
-
+(everything is ordered by Most skilled to Less skilled)
 ## Skills (ordered by Most skilled to less skilled)
 ### Technologies
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-
+<p align="left">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nodejs&animation=spin&svgfill=15d8fe">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=15d8fe">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL&animation=spin&svgfill=15d8fe">  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -37,26 +39,16 @@ Im interested ... everything.
 
 
 ### Organization/Versioning
-
-
-
+<p align="left">
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=scrum">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=agile">
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=slack">
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello">
-
-
-
-
-
 
 ## Skills
 
 <p align="left">  
 
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
 
