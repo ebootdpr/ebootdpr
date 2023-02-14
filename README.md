@@ -68,7 +68,7 @@ Im interested ... everything.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://wa.me/543435202921" target="_blank">
-<img src=https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=greeb alt=whatsapp style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=green alt=whatsapp style="margin-bottom: 5px;" />
 </a>
 
 ## GitHub Stats
