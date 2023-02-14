@@ -28,7 +28,7 @@ My currently short timed objective is that I want to become the equivalent of a 
 
 
 - I prefer 
-<img href="https://neovim.io/" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NEOVIM" alt=neovim style="margin-bottom: 5px;" /> for personal use, and VSCode for Teamwork/Pair Programming.I found than knowing <img display="inline" height="25px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VIM"/> commands were really useful when I needed to edit text files in AWS EC2 where you only got a terminal and no GUI.
+<img href="https://neovim.io/" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NEOVIM" alt=neovim style="margin-bottom: 1px;" height="25px" /> for personal use, and VSCode for Teamwork/Pair Programming.I found than knowing <img display="inline" height="25px" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VIM"/> commands were really useful when I needed to edit text files in AWS EC2 where you only got a terminal and no GUI.
 
 
 - I like martial arts, I did a couple of years of Judo and Karate (Shorin Ryu) and 6 months of Kung Fu (Wushu)
