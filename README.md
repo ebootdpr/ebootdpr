@@ -22,7 +22,8 @@ Currently I'm interested in:
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791"/>   
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=red"/>    
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=auth0&svgfill=blue"/>    
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jws&svgfill=white"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jsonwebtoken&svgfill=white"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jsonwebtokens&svgfill=white"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=AWS%20EC2&svgfill=yellow"/> 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=google%20cloud&svgfill=white"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Vercel&svgfill=2496ED"/>
