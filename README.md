@@ -13,8 +13,8 @@ asdsd
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"/>
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js"/>  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.jS"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodB"/>  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Mongodb"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB"/>  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL"/>  
 </p>
