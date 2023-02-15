@@ -89,12 +89,12 @@ Ordered by most skilled to less skilled
 </p>
 
 ### Soft Skills
--Proactive
--Teamwork
--Fast-Learner
--Curious
--Logical-Thinker
--Promlem-Solver
+- Proactive
+- Teamwork
+- Fast-Learner
+- Curious
+- Logical-Thinker
+- Promlem-Solver
 
 ### Languages Self Evaluation
 <div style="width: 100%;position:absolute;"> 
