@@ -92,8 +92,7 @@ Ordered by most skilled to less skilled
 
 ### Languages Self Evaluation
 <div style="width: 100%;position:absolute;"> 
- <img style="width: 50%;position:absolute;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Solid_yellow.svg/512px-Solid_yellow.svg.png"  alt="Click to see the source">
- <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80"/>
+ <img style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Solid_yellow.svg/512px-Solid_yellow.svg.png');" display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=30"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10"/>
