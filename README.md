@@ -3,8 +3,8 @@
 
 <a href="#contact-me" target="_blank">goto: CONTACT ME</a>
 ## Who am I?
-I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn everything, especially physics, which is why I enjoy video game development because it pushes my physics knowledge to the limit. I'm also obsessed with archiving the best software performance and reliability. 
- I've recently begun learning the Rust programming language because I know how annoying C++ is when it comes to pointers, and Rust ownership resembles what I mistakenly thought variable lifetime was when I learned C in high school. 
+I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn everything, specially physics, which is why I enjoy video game development as a hobby because it pushes my physics knowledge to the limit. I always want to archive the best software performance and reliability that I can. 
+ I've recently begun learning the Rust programming language because Rust ownership resembles what I mistakenly thought variable lifetime was when I learned C in high school. And now with WebAssembly its possible to build FrontEnd apps in any languange.
 
 ## Background and Objectives
 I studied Electromecanics Engineering for two years, Professor Physics for three years, and Electronics Engineering for two years, abandoned them all for different reasons. I used to fix PCs. Then, last year, I decided to take a course on repairing phones, and tablets but the market didnt go well afterwards so I decided to take a 540 degrees and go study for Full Stack Developer at Henry bootcamp for 5 months. Fortunately, I had already learned the fundamentals of programming in C when I was 15 years old in high school, and I learned a little bit more in university at Electronics engineering, where I learned OOP in C++. In addition, I worked on some simple video game projects with Godot, Unity, and Unreal Engine. So most of the bootcamp was really easy for me, but still struggled with a lot of new concepts and technologies.
