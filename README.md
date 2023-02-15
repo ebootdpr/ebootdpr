@@ -91,8 +91,8 @@ Ordered by most skilled to less skilled
 ### Soft Skills
 
 ### Languages Self Evaluation
-<div style="width: 100%;"> 
- <img position="absolute" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Solid_yellow.svg/512px-Solid_yellow.svg.png" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%;position:absolute;"> 
+ <img style="width: 50%;position:absolute;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Solid_yellow.svg/512px-Solid_yellow.svg.png"  alt="Click to see the source">
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=30"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10"/>
