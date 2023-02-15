@@ -61,21 +61,22 @@ My currently short timed objective is that I want to become the equivalent of a 
 </p>
 
 ### Languages
+Ordered by most skilled to less skilled
 <p align="left">
 <!--- javasctipt -->
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c"/>
 <!--- Typescript -->
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC"/>
 <!--- Rust -->
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629"/>
 <!--- go -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/>
 <!--- java -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=E34A86">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=E34A86"/>
 <!--- Python -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python"/>
 <!--- c -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=00599C">
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=00599C"/>
 </p>
 
 ### Organization/Versioning
@@ -90,14 +91,15 @@ My currently short timed objective is that I want to become the equivalent of a 
 ### Soft Skills
 
 ### Languages Self Evaluation
-<div style="width: 100%;">
-  <img src="https://commons.wikimedia.org/wiki/File:Solid_yellow.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%;"> 
+ <img position="absolute" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Solid_yellow.svg/512px-Solid_yellow.svg.png" style="width: 100%;" alt="Click to see the source">
+ <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80"/>
+ <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=30"/>
+ <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10"/>
+ <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10"/>
+
+
 </div>
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80)](#languages-self-evaluation)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=30)](#languages-self-evaluation)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Rust%20and%20Go&value=15)](#languages-self-evaluation)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10)](#languages-self-evaluation)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10)](#languages-self-evaluation)
 
 
 ## Contact Me
