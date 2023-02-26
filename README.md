@@ -4,7 +4,7 @@
 
 
 <a href="#contact-me" target="_blank">click here to: CONTACT ME</a> <br>
-<a href="https://calendly.com/ebootdpr/45min" target="_blank">click here to: Schedule a Virtual Meeting)</a>
+<a href="https://calendly.com/ebootdpr/45min" target="_blank">click here to: Schedule a Virtual Meeting</a>
 
 ## Who am I?
 I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn everything, specially physics, which is why I enjoy video game development as a hobby because it pushes my physics knowledge to the limit. I always want to archive the best software performance and reliability that I can. 
