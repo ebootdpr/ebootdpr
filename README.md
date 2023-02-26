@@ -2,6 +2,8 @@
 # Hi there, I am Rodrigo Toobe
 6 months of experience in web dev 
 <a href="#contact-me" target="_blank">goto: CONTACT ME</a>
+<a href="https://calendly.com/ebootdpr/45min" target="_blank">goto: calendly (schedule a meeting)</a>
+
 ## Who am I?
 I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn everything, specially physics, which is why I enjoy video game development as a hobby because it pushes my physics knowledge to the limit. I always want to archive the best software performance and reliability that I can. 
  I've recently begun learning the Rust programming language, Typescript and Go. And Programming Patterns and System designs.
@@ -111,6 +113,8 @@ Ordered by most skilled to less skilled
 
 ## Contact Me
 <p align="left">
+
+<a href="https://calendly.com/ebootdpr/45min" target="_blank">Schedule a meeting (calendly)</a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=rod.toobe@gmail.com" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" height="30" width="40" style="margin-bottom: 5px;" /></a>
 <a href="https://linkedin.com/in/rodrigotoobe?locale=en_US" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin height="30" style="margin-bottom: 5px;" />
