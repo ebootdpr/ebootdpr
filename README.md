@@ -114,7 +114,7 @@ Ordered by most skilled to less skilled
 ## Contact Me
 <p align="left">
 
-<a href="https://calendly.com/ebootdpr/45min" target="_blank">Schedule a meeting (calendly)</a>
+<a href="https://calendly.com/ebootdpr/45min" target="_blank">Schedule a meeting (calendly)<img  src="https://assets.calendly.com/assets/frontend/media/logo-square-cd364a3c33976d32792a.png" height="30" width="40" style="margin-bottom: 5px;" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=rod.toobe@gmail.com" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" height="30" width="40" style="margin-bottom: 5px;" /></a>
 <a href="https://linkedin.com/in/rodrigotoobe?locale=en_US" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin height="30" style="margin-bottom: 5px;" />
