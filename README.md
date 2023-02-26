@@ -1,8 +1,10 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebootdpr.ebootdpr)
 # Hi there, I am Rodrigo Toobe
 6 months of experience in web dev 
-<a href="#contact-me" target="_blank">goto: CONTACT ME</a> <br>
-<a href="https://calendly.com/ebootdpr/45min" target="_blank">goto: calendly (schedule a meeting)</a>
+
+
+<a href="#contact-me" target="_blank">click here to: CONTACT ME</a> <br>
+<a href="https://calendly.com/ebootdpr/45min" target="_blank">click here to: Schedule a Virtual Meeting)</a>
 
 ## Who am I?
 I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn everything, specially physics, which is why I enjoy video game development as a hobby because it pushes my physics knowledge to the limit. I always want to archive the best software performance and reliability that I can. 
