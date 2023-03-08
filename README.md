@@ -40,8 +40,8 @@ My short-term goal is to become the equivalent of a software engineer without ac
 - I like martial arts, I did a couple of years of Judo and Karate (Shorin Ryu) and 6 months of Kung Fu (Wushu)
 
 ## Skills
- roughly ordered by Most skilled to least skilled. 
-###  Technologies 
+ Roughly ordered by Most skilled to least skilled. But I can learn anything if it is needed in less than a week. 
+###  Tech stack 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.Js"/>  
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Express%20Sequelize%20and%20Mongoose"/>
