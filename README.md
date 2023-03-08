@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebootdpr.ebootdpr)
 # Hi there, I am Rodrigo Toobe
-6 months of experience in web dev 
+6 months of experience in web dev, but I consider myself a semi-senior developer.
 
 
 <a href="#contact-me" target="_blank">click here to: CONTACT ME</a> <br>
@@ -11,11 +11,11 @@ I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn 
  I've recently begun learning the Rust programming language, Typescript and Go. And Programming Patterns and System designs.
 
 ## Background and Objectives
-I studied Electromecanics Engineering for two years, Professor Physics for three years, and Electronics Engineering for two years, abandoned them all for different reasons. I used to fix PCs. Then, last year, I decided to take a course on repairing phones, and tablets but the market didnt go well afterwards so I decided to take a 540 degrees and go study for Full Stack Developer at Henry bootcamp for 5 months. Fortunately, I had already learned the fundamentals of programming in C when I was 15 years old in high school, and I learned a little bit more in university at Electronics engineering, where I learned OOP in C++. In addition, I worked on some simple video game projects with Godot, Unity, and Unreal Engine and some arduino projects
+I studied Electromechanical Engineering, Electronics Engineering, and Teaching in Physics, but abandoned them for different reasons. I used to repair PCs and laptops. Then, in 2022, I decided to take a course on repairing phones and tablets, but the market didn't do well afterwards, so I decided to take a 540-degree turn and study to become a Full Stack developer at Henry's bootcamp for 4 months. Fortunately, I had already learned the fundamentals of programming in C in high school and in university in the Engineering field. Additionally, I worked on some simple video game projects with Godot, Unity, and Unreal Engine where I learned Shader programming.
 
-Now I'm looking for a job that would challenge me to improve my programming and problem-solving abilities. 
+Currently, I am looking for a job that challenges me to improve my programming skills, problem-solving abilities, and teamwork.
 
-My currently short timed objective is that I want to become the equivalent of a Software Engineer without actually doing the career by doing the free online open courses available in Yale and MIT.
+My short-term goal is to become the equivalent of a software engineer without actually doing the degree, by taking advantage of different resources, such as the open and free courses available on the websites of MIT and Yale.
 
 
 
