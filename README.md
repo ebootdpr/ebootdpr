@@ -22,11 +22,7 @@ My short-term goal is to become the equivalent of a software engineer without ac
 ### Currently I'm interested in: 
 <p align="left">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=WebAssembly"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity"/> 
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unrealengine"/> 
  </p>
 
 ### Fun facts:
