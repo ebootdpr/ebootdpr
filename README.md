@@ -1,21 +1,15 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebootdpr.ebootdpr)
-# Hi there, I am Rodrigo Toobe
-6 months of experience in web dev, but I consider myself a semi-senior developer.
-
 
 <a href="#contact-me" target="_blank">click here to: CONTACT ME</a> <br>
-<a href="https://calendly.com/ebootdpr/45min" target="_blank">click here to: Schedule a Virtual Meeting</a>
 
 ## Who am I?
-I'm 26 years old and have an insatiable desire to <strong>deeply</strong> learn everything, specially physics, which is why I enjoy video game development as a hobby because it pushes my physics knowledge to the limit. I always want to archive the best software performance and reliability that I can. 
- I've recently begun learning the Rust programming language, Typescript and Go. And Programming Patterns and System designs.
+<a href="#contact-me" target="_blank">dry</a> <br>
 
 ## Background and Objectives
-I studied Electromechanical Engineering, Electronics Engineering, and Teaching in Physics, but abandoned them for different reasons. I used to repair PCs and laptops. Then, in 2022, I decided to take a course on repairing phones and tablets, but the market didn't do well afterwards, so I decided to take a 540-degree turn and study to become a Full Stack developer at Henry's bootcamp for 4 months. Fortunately, I had already learned the fundamentals of programming in C in high school and in university in the Engineering field. Additionally, I worked on some simple video game projects with Godot, Unity, and Unreal Engine where I learned Shader programming.
-
-Currently, I am looking for a job that challenges me to improve my programming skills, problem-solving abilities, and teamwork.
-
-My short-term goal is to become the equivalent of a software engineer without actually doing the degree, by taking advantage of different resources, such as the open and free courses available on the websites of MIT and Yale.
+Electromechanical Engineering -> unfinished
+Professor in Physics -> unfinished
+Electronics Engineering-> unfinished
+Fullstack Web Developer -> finished
 
 
 
@@ -81,7 +75,7 @@ Ordered by most skilled to less skilled
 ### Soft Skills
 
 - Logical-Thinker
-- Promlem-Solver
+- Problem-Solver
 - Fast-Learner
 - Curious
 - Teamwork
@@ -92,8 +86,8 @@ Ordered by most skilled to less skilled
 <div style="width: 100%;position:absolute;"> 
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Rust&value=40"/>
- <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=15"/>
- <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Go%20Lang&value=15"/>
+ <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40"/>
+ <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Go%20Lang&value=25"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10"/>
 </div>
