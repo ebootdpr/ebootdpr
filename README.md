@@ -51,10 +51,10 @@ Ordered by most skilled to less skilled
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c"/>
  <!--- Rust -->
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust&svgfill=f06629"/>
+ <!--- go -->
+<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/>
 <!--- Typescript -->
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=007ACC"/>
-<!--- go -->
-<img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go"/>
 <!--- java -->
 <img display="inline" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=E34A86"/>
 <!--- Python -->
@@ -85,9 +85,9 @@ Ordered by most skilled to less skilled
 ### Languages Self Evaluation
 <div style="width: 100%;position:absolute;"> 
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=80"/>
+ <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Go%20Lang&value=60"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Rust&value=40"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Typescript&value=40"/>
- <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Go%20Lang&value=25"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=Python%20and%20Lua&value=10"/>
  <img display="inline" src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%20and%20c%2B%2B&value=10"/>
 </div>
