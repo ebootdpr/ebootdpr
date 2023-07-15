@@ -1,5 +1,5 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ebootdpr.ebootdpr)
-
+I dont have time to build a portfolio.
 <a href="#contact-me" target="_blank">click here to: CONTACT ME</a> <br>
 
 ## Skills
